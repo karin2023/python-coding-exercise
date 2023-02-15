@@ -6,7 +6,6 @@ def get_str_btw(s,f,b):
     #return(par[2].partition(b))[0][:]
     return(par[2].partition(b))[0]
 
-
 path = './'
 mylist = []
 dirs = os.listdir(path)
